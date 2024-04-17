@@ -1,10 +1,8 @@
 # 30 Days of JavaScript 🔥🔥
 
----
+<br>
 
 ## ⚡⚡ LEETCODE 30 DAYS OF JAVASCRIPT CHALLENGE ⚡⚡
-
----
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" />
